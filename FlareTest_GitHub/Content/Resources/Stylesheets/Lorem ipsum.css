@@ -1,0 +1,128 @@
+/*<meta sourceDocument="http://sharepoint.prodatamobility.com/software/TrainingAndDocumentation/Source library/(test)/manuals/Lorem ipsum.docx" />*/
+
+p
+{
+	margin-top: 2pt;
+	margin-bottom: 4pt;
+	font-family: 'Segoe UI';
+	font-size: 11pt;
+}
+
+ol
+{
+	margin-top: 2pt;
+	margin-bottom: 4pt;
+	font-family: 'Segoe UI';
+	font-size: 11pt;
+}
+
+ul
+{
+	margin-top: 2pt;
+	margin-bottom: 4pt;
+	font-family: 'Segoe UI';
+	font-size: 11pt;
+}
+
+li
+{
+	margin-top: 2pt;
+	margin-bottom: 4pt;
+	font-family: 'Segoe UI';
+	font-size: 11pt;
+}
+
+td
+{
+	margin-top: 2pt;
+	margin-bottom: 4pt;
+	font-family: 'Segoe UI';
+	font-size: 11pt;
+	vertical-align: top;
+}
+
+h2.Heading2
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	page-break-before: always;
+	margin-top: 2pt;
+	margin-bottom: 24pt;
+	mc-heading-level: 2;
+	font-family: 'Segoe UI Light';
+	font-size: 42pt;
+	font-weight: normal;
+}
+
+h3.Heading3
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 24pt;
+	margin-bottom: 5pt;
+	margin-left: 0pt;
+	mc-heading-level: 3;
+	font-family: 'Segoe UI Light';
+	font-size: 20pt;
+	font-weight: normal;
+}
+
+h5.Heading5
+{
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	margin-top: 12pt;
+	margin-bottom: 4pt;
+	mc-heading-level: 5;
+	font-family: 'Segoe UI Semibold';
+	font-size: 13pt;
+	font-weight: normal;
+}
+
+li.List1Unordered
+{
+	font-size: 11pt;
+	page-break-inside: avoid;
+	margin-top: 6pt;
+	margin-bottom: 2pt;
+	margin-left: 0pt;
+	font-family: 'Segoe UI';
+}
+
+span.span_1
+{
+	margin-right: 0pt;
+}
+
+li.List1Unordered_1
+{
+	font-size: 11pt;
+	page-break-inside: avoid;
+	margin-top: 6pt;
+	margin-bottom: 2pt;
+	margin-left: 0pt;
+	font-family: 'Segoe UI';
+	list-style-type: square;
+}
+
+ul.ul_1
+{
+	list-style-type: square;
+	margin-left: 18pt;
+}
+
+p.Picture
+{
+	font-size: 11pt;
+	margin-top: 6pt;
+	margin-bottom: 6pt;
+	margin-left: 18pt;
+	font-family: 'Segoe UI';
+}
+
+img.img_1
+{
+	visibility: visible;
+	mso-wrap-style: square;
+}
+

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2014-09-25T11:02:26.7197534+02:00"
+  ProjectName="FlareTest_GitHub"
+  ProjectFolder="C:\Users\Jens\Documents\GitHub\FlareTest\FlareTest_GitHub\"
+  AutoSync="false"
+  AutoFitTables="false"
+  LastImport="2014-09-25T11:03:01.7977598+02:00">
+  <Files>
+    <Url
+      Source="http://sharepoint.prodatamobility.com/software/TrainingAndDocumentation/Source library/(test)/manuals/Lorem ipsum.docx"
+      AbsoluteSource="http://sharepoint.prodatamobility.com/software/TrainingAndDocumentation/Source library/(test)/manuals/Lorem ipsum.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Lorem ipsum/Lorem ipsum.htm"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../../Content/Resources/Images/Lorem ipsum/02000001.jpg"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../../Content/Lorem ipsum/morbi tristique.htm"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../../Content/Lorem ipsum/In porttitor.htm"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../../Content/Lorem ipsum/Integer.htm"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../../Content/Lorem ipsum/Vestibulum.htm"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../TOCs/Lorem ipsum.fltoc"
+      TimeStamp="25/09/2014 11:03:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Lorem ipsum.css"
+      TimeStamp="25/09/2014 11:03:00" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Heading 1"
+      To="h1.Heading 1" />
+    <Map
+      From="Heading 2"
+      To="h2.(MS Word Style)" />
+    <Map
+      From="Heading 3"
+      To="h3.(MS Word Style)" />
+    <Map
+      From="Heading 4"
+      To="h4.Heading 4" />
+    <Map
+      From="Heading 5"
+      To="h5.(MS Word Style)" />
+    <Map
+      From="Heading 6"
+      To="h6.Heading 6" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+  </NewTopicStyles>
+  <UsedParagraphStyles>
+    <StyleName
+      Name="Heading 2" />
+    <StyleName
+      Name="Heading 3" />
+    <StyleName
+      Name="Heading 5" />
+    <StyleName
+      Name="List 1 Unordered" />
+    <StyleName
+      Name="Picture" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="Picture Border" />
+  </UsedCharacterStyles>
+</MsWordImport>

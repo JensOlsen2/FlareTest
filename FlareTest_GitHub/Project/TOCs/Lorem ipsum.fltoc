@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" sourceDocument="http://sharepoint.prodatamobility.com/software/TrainingAndDocumentation/Source library/(test)/manuals/Lorem ipsum.docx">
+    <TocEntry Title="Lorem ipsum" Link="/Content/Lorem ipsum/Lorem ipsum.htm" />
+    <TocEntry Title="g morbi tristique" Link="/Content/Lorem ipsum/morbi tristique.htm" />
+    <TocEntry Title="In porttitor" Link="/Content/Lorem ipsum/In porttitor.htm" />
+    <TocEntry Title="g Integer" Link="/Content/Lorem ipsum/Integer.htm" />
+    <TocEntry Title="g Vestibulum" Link="/Content/Lorem ipsum/Vestibulum.htm" />
+</CatapultToc>
